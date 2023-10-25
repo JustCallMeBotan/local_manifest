@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tree-->
+  <project name="JustCallMeBotan/device_xiaomi_chopin" path="device/xiaomi/chopin" remote="github" revision="13"/>
+  <!--Kernel-->
+  <project name="JustCallMeBotan/kernel_xiaomi_chopin" path="kernel/xiaomi/chopin" remote="github" revision="12.1"/>
+  <!--Device tree-->
+  <project name="JustCallMeBotan/vendor_xiaomi_chopin" path="vendor/xiaomi/chopin" remote="github" revision="13"/>
+
+</manifest>
